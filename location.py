@@ -1,4 +1,4 @@
-# CPE 202 Lab 0
+# CPE 202 Location Class, Lab 1
 
 # represents a location using name, latitude and longitude
 class Location:
