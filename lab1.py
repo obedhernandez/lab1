@@ -31,6 +31,6 @@ def reverse_list_mutate(int_list):
 # Maybe_List -> Maybe_List
 def reverse_rec(int_list):   # must use recursion
    """recursively reverses a list of numbers and returns the reversed list
-   If list is None, raises ValueError"""
+   May NOT mutate the original list. If list is None, raises ValueError"""
    pass
 
